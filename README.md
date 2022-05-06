@@ -27,10 +27,11 @@ previously, we have shown two different datasets to the same classifier. We will
 ![image](https://user-images.githubusercontent.com/96924468/167104945-3ea8e06b-c739-4233-bb3f-c3217006edc7.png)
 
 ![image](https://user-images.githubusercontent.com/96924468/167105001-2a046bab-fa49-4aa7-b20f-9cd1b5eb4dbd.png)
-![image](https://user-images.githubusercontent.com/96924468/167106796-c100683f-f2b6-406d-981d-adb0afce710d.png)
+![image](https://user-images.githubusercontent.com/96924468/167106958-28f03d57-2ad6-4d92-8344-bfb0449fb586.png)
 
 ![image](https://user-images.githubusercontent.com/96924468/167105085-33265031-f307-4d22-a95d-c1ebfdbd435b.png)
-![image](https://user-images.githubusercontent.com/96924468/167106397-0cc3d133-a309-44d3-8414-283651a43304.png)
+![image](https://user-images.githubusercontent.com/96924468/167106796-c100683f-f2b6-406d-981d-adb0afce710d.png)
+
 
 Classifier A
 * The likelihood is L = 4.0314938136757398e-22
