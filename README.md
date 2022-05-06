@@ -46,3 +46,13 @@ Classifier B
 * The error rate is 0.45
 
 ![image](https://user-images.githubusercontent.com/96924468/167106078-f07e4a16-fb2a-4d80-9c5c-29d2f66ab60f.png)
+
+# Logistic Regression: Optimisation 
+
+Gradient descent the most popular optimization strategy used in machine learning. In gradient descent we try to minimise some objective function by repeatedly/iteratively tuning our model parameters in the direction of the negative gradient. Parameters refer to coefficients in regression and weights in neural networks.
+
+![image](https://user-images.githubusercontent.com/96924468/167108501-496ccc12-3c73-4072-86f9-bd117f699970.png)
+
+![image](https://user-images.githubusercontent.com/96924468/167108552-d53b3377-89d7-4a2c-9ebd-2678182b1242.png)
+
+
