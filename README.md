@@ -3,9 +3,7 @@
 A classifier is a model that predicts a **discrete label** when shown a set of predictors. Classifiers can be defined as partitions of the **predictor space** into decision regions. A decision region is a region within the predictor space such that any sample that lies within it is assigned the same label.
 
 ![image](https://user-images.githubusercontent.com/96924468/167103132-df03fe05-5e0a-4ad3-bcd8-9f9c45e16931.png)
-
 ![image](https://user-images.githubusercontent.com/96924468/167103182-62826ac3-5fd9-4306-a884-cf736b83e370.png)
-
 ![image](https://user-images.githubusercontent.com/96924468/167103250-a95e11f0-7c61-4661-bfea-2d6dab4213d9.png)
  
  # Logistic function: The certainty of a linear classifier
