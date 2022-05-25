@@ -17,7 +17,6 @@ Now that we have defined and visualised a linear classifier, we can create the n
 Let's see how we can use the logistic function to define the notion of certainty in classifiers. We will first create a new linear classifier defined by new coefficients and show the decision regions that it defines:
 
 ![image](https://user-images.githubusercontent.com/96924468/167103817-a4a86cf1-232e-4a36-9004-a8955d1e883b.png)
-
 ![image](https://user-images.githubusercontent.com/96924468/167103899-d6ffe852-82f9-428f-823a-5f39a4a5062a.png)
 
 # Comparing Classifiers
